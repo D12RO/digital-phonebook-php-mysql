@@ -9,6 +9,9 @@ You can only add, edit, delete contacts, or view users's phonebook using Email S
 # Demo
 <pre>https://globalscripts.ro/phonebook</pre>
 
+# Demo Account 
+<pre>Email: demo@globalscripts.ro<br>Password: demo123</pre>
+
 # Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development, testing and learning purposes.
 
